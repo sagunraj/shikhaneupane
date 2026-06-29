@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shikhaneupane.com.np/sitemap.xml
